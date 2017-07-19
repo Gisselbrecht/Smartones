@@ -1,1 +1,2 @@
-﻿One army attacks any territory if and only if it has there more than one defending army or zero.
+One army never attacks territory which also has one defending army. In this case the order is skipped and the message shows off on the orders' table.
+The motivation of this mod is to make sure that all of the attacks at least does some damage to the target. Also it brings some different opportunities to exploit the usefulness of 1 army attacks and delays, because they are safe.
