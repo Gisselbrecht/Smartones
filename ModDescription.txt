@@ -1,0 +1,1 @@
+﻿One army attacks any territory if and only if it has there more than one defending army.
